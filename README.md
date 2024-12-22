@@ -17,4 +17,4 @@ This repository is __full of spoilers__ for the entire series.
 ## Visualizations
 
 - [Character Analysis](visualizations/character_analysis.ipynb)
-- 
+
